@@ -4,6 +4,5 @@ Using React-Redux I was able to create a project that is a basic e-commerce webs
 Features
 
 Add and remove items
-Remove items
 Edit the quantity of the items in real time
 Calculate automatically the total including the shipping (if chosen)
